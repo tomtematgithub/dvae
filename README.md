@@ -3,6 +3,7 @@
 
 Code for [Anomaly Detection in Aeronautics Data with Quantum-compatible Discrete Deep Generative Model] (https://iopscience.iop.org/article/10.1088/2632-2153/ace756; https://arxiv.org/abs/2303.12302).
 
+Please note that the posted data files are shorter and contain fewer instances than the ones used to produce the research results, in order to comply with GitHub's file-size requirements. The full data files are available from the authors/software developers.
 
 ## Requirements:
 ```
